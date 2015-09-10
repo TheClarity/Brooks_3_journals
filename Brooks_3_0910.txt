@@ -2,6 +2,6 @@
 
 Step 1. Create a file with nano or pico
 step 2. write a 10 page essay for your journal (or a couple sentences) then save it
-step 3. "git commit -m 'this is my journal for (date)'"
-step 4. "git add *"
-step 5. "git push*"
+step 3. "git add *"
+step 4. "git commit -m 'this is my journal for (date)'"
+step 5. "git push origin master"
