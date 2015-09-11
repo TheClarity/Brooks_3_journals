@@ -1,0 +1,1 @@
+pseudocode is a fake code that is similar to real code, it keeps the basic principles of real code but doesn't use exact detail. This can be use to plan all of your code before hand so you know what you are doing before you actually begin to code.
