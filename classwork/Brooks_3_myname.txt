@@ -1,0 +1,36 @@
+Username for 'https://github.com': TheClarity
+Password for 'https://TheClarity@github.com': 
+Counting objects: 3, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (3/3), done.
+begin:
+	do once
+		draw left
+		turn down
+		turn right
+		skip towards right
+		draw right
+		turn up
+		turn left
+		turn down
+		skip towards right
+		draw up
+		turn down
+		turn right
+		skip towards right
+		draw right
+		turn up
+		turn left
+		turn right
+		turn up
+		turn left
+		turn down
+		turn right
+		skip towards right
+		draw up
+		turn left
+		turn up
+		turn down
+		turn right
+		turn up
+end:

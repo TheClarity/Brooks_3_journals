@@ -1,0 +1,9 @@
+-no cellphones
+-always tinker, dont be a stopper
+-helping others helps you
+
+These are important because they allow you to tiker and better yourself as 
+a coder and problem solver.
+
+The proccess is define the problem, generate solutions, decide the course of action, implement the solution, please read debugging error.
+
