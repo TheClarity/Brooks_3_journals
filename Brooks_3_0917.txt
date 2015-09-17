@@ -1,0 +1,6 @@
+The five data types of Java are:
+-int
+-float
+-shot, long, double
+-char
+-boolean
