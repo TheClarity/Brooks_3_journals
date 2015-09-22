@@ -1,0 +1,23 @@
+Copyright- The legal right of someones work, they keep the rights to it, and
+ it is illegal to use it
+Copyleft- The right to use someones work as long as it follows their given 
+ guidelines
+Fair Use- limitation to the right granted by copyright law to the autor of 
+ creative work
+Free Speech- The freedom to say what you want
+Free Software- software that is free to modify or change 
+Freeware- free software that may come with limitations and without source code 
+Public Domain- a domain that is public and free to use
+File-Sharing - sharing files from one computer to another via internet
+Piracy- illegaly obtaining otherwise paid software, movies, games, ect.
+ for free from and external source
+Plagiarsm- The illegal act of using and claiming someones work as your own
+infringement
+proprietary
+Open Source
+GNU GPL
+Licenese
+MIT license
+Apache License
+EULA
+Creative commons
