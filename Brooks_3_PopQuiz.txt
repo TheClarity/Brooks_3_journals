@@ -1,0 +1,6 @@
+MIT license gives you full control over it and reuse, whilst GPL allows you to
+see the source code.
+
+We will be using GPL in this class.
+
+you're wearing a gnu logo
