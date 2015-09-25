@@ -18,9 +18,10 @@ proprietary- Having ownership of something
 Open Source- Software that has the source code available
 GNU GPL- Stands for General Public License which allows users to do as they wish
 License- A permit to show ownership, to do something, or to trade as they wish
-MIT license- A free software license that allows for reuse of the software
+MIT license- A free software license that allows for reuse of the software 
+(remains proprietary)
 Apache License- A free software license that has the apache preservation of 
-copyright
+copyright (absolute power)
 EULA- End User License Agreement is a legal contract between a software
 application author and the user of the application
 Creative commons- A non profit organization that enables the sharking and use 

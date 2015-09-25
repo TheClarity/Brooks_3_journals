@@ -1,0 +1,11 @@
+paid license: A license in which all fees have already been paid
+Shareware: free to begin with but may be charged later on
+Trialware: Software that can run for a limited amount of time before being
+	charged
+Ad-Ware: Software that automatically shows or downloads unwanted material
+Crippleware: software with reduced function but you can pay for full version
+Freemium: free game with ingame purchases
+FreeWare: software available free of charge, but free-opensource has the source code
+Richard Stallman: Software freedom activist and computer programmer
+Lawrence lissig: American Academic, lawyer, political activist
+Eben Moglen: professor of law and legal history at Columbia University
