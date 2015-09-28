@@ -1,0 +1,5 @@
+To count thou must make a for loop (ex. for( int i=0; i<100.length(); i++ ))
+
+use % next to a number
+
+Use a series of if statements 
