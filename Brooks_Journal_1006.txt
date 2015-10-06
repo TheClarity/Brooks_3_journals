@@ -1,0 +1,3 @@
+Methods are like little programs. Classes are like areas where you're program 
+exists. An instance is like an object. A class method are methods that are
+classes on a class.
