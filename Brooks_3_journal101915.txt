@@ -1,0 +1,11 @@
+So far it may not look like I am almost done but that is due to the fact that
+I decided to learn about each of the polygons first but know that I know how 
+they work I can easily put them in my art. So far im only using simple shapes
+ with no animation, like triangles and squares but I hope to add little 
+animations soon. I loooked at the sample code to help give me an idea of how 
+to make and use methods and certain shapes. 
+
+private vod drawRedSquare(GraphicsContext gc){
+	gc.setFill(color.RED);
+	gc.strokeLine(x1, y1, x2, y2);
+}
