@@ -1,0 +1,11 @@
+A method is like a mini program. The method can be called upon to do what the
+ method is programmed to do.
+
+I used one method, it was the actyal part of the game, it made the game set 
+a random number and allowed the player to play or guess numbers
+
+A while loop is basically a for loop but through bolean, it will run as long as
+it is true
+
+I used the while loop to keep the game going, boolean was used to run the while
+loop, the boolean remained true aslong as the counter was above 0.
