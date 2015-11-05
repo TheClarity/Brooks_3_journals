@@ -1,0 +1,3 @@
+A string is an object that you pass through a method, these are good when you 
+want to have a series of numbers or letters.
+
