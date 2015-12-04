@@ -1,0 +1,2 @@
+I will use the while loop to allow the player to play again when they die.
+I will use methods to seperate each decision the player makes.

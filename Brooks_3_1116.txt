@@ -1,0 +1,2 @@
+I will use methods to organize my code so it's not just a giant pile of code.
+I will pass values like scanner and nextline to record the users response.
