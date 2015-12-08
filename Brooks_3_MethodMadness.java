@@ -30,25 +30,75 @@ public class Brooks_3_javafxintro extends Application {
         Group root = new Group();
         Canvas canvas = new Canvas(1280, 720);
         GraphicsContext gc = canvas.getGraphicsContext2D();
-        drawShapes(gc);
+ //       drawShapes(gc);
+        for(int i=0; i < 1000; i+=40 ){
+        drawSquares1(gc, Math.random()*i, Math.random()*i,Math.random()*i,Math.random()*i);
+        }
+        for(int i=0; i < 1000; i+=40 ){
+        drawSquares2(gc, Math.random()*i, Math.random()*i,Math.random()*i,Math.random()*i);
+        }
+        for(int i=0; i < 1000; i+=40 ){
+        drawSquares2(gc, Math.random()*i+100, Math.random()*i+100,Math.random()*i,Math.random()*i);
+        }
+        for(int i=0; i < 1000; i+=40 ){
+        drawSquares3(gc, Math.random()*i, Math.random()*i,Math.random()*i,Math.random()*i);
+        }
         //drawHouse(gc);
         root.getChildren().add(canvas);
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
     }
-    private void drawHouse(GraphicsContext gc) {
-        gc.fillText("My House", 42, 42);
+//    private void drawHouse(GraphicsContext gc) {
+//        gc.fillText("My House", 42, 42);
+//    }
+//    private void drawShapes(GraphicsContext gc) {
+//        gc.setFill(Color.web("red",.0));
+//        gc.setStroke(Color.web("BLUE", .5));
+//        gc.setLineWidth(1);
+///     gc.strokeLine(40, 60, 30, 30);
+//        gc.fillRect(500, 300, 250, 250);
+//
+//        gc.fillRect(500, 300, 250, 250);
+//        gc.fillPolygon (new double[]{250, 420, 300},
+//                new double []{250, 150, 50}, 3);
+//        for(int i=0; i < 200; i++ ){
+//            int x = i*15+250;
+//            int b = x;
+//        }
+//    }
+    private void drawSquares(GraphicsContext gc, double x, double y, double w, double h) {
+               gc.setLineWidth(4);
+               gc.setStroke (Color.web("BLUE", .5));
+               gc.setFill(Color.web("BLUE",.1));
+               gc.fillRect(x, y, w, h);
+                gc.strokeRect(x,y,w,h);
+               
     }
-    private void drawShapes(GraphicsContext gc) {
-        gc.setFill(Color.MEDIUMSEAGREEN);
-        gc.setStroke(Color.BLUE);
-        gc.setLineWidth(5);
-//      gc.strokeLine(40, 60, 30, 30);
-        gc.fillRect(500, 300, 250, 250);
-        gc.strokeRect(500, 300, 250, 250);
-        gc.fillRect(500, 300, 250, 250);
-        gc.fillPolygon (new double[]{250, 420, 300},
-                new double []{250, 150, 50}, 3);
+    
+        private void drawSquares1(GraphicsContext gc, double x, double y, double w, double h) {
+               gc.setLineWidth(3);
+               gc.setStroke (Color.web("LIMEGREEN", .5));
+               gc.setFill(Color.web("LIMEGREEN",.1));
+               gc.fillRect(x, y, w, h);
+                gc.strokeRect(x,y,w,h);
+    }
+        
+            private void drawSquares2(GraphicsContext gc, double x, double y, double w, double h) {
+               gc.setLineWidth(4);
+               gc.setStroke (Color.web("PURPLE", .5));
+               gc.setFill(Color.web("PURPLE",.1));
+               gc.fillRect(x, y, w, h);
+               gc.strokeRect(x,y,w,h);
+    }
+            
+                private void drawSquares3(GraphicsContext gc, double x, double y, double w, double h) {
+               gc.setLineWidth(3);
+               gc.setStroke (Color.web("DARKBLUE", .5));
+               gc.setFill(Color.web("DARKBLUE",.1));
+               gc.fillRect(x, y, w, h);
+                gc.strokeRect(x,y,w,h);
+    }
+    
                 
 //        gc.fillRoundRect(110, 60, 30, 30, 10, 10);
 //        gc.strokeRoundRect(160, 60, 30, 30, 10, 10);
@@ -65,7 +115,7 @@ public class Brooks_3_javafxintro extends Application {
 //        gc.strokePolyline(new double[]{110, 140, 110, 140},
 //                          new double[]{210, 210, 240, 240}, 4);
     }
-}
+
     /**
      * @param args the command line arguments
      */
