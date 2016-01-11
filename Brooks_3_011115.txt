@@ -1,0 +1,5 @@
+-I will be creating a maze game with enemies and puzzles that you will have to work around
+and reach the end of the map before your time runs out.
+
+-So far my biggest challenge has been creating a good map for my game that I can use in 
+my game.
