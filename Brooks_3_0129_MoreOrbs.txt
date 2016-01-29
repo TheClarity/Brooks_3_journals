@@ -1,0 +1,6 @@
+A class constructor is what tells the class what to do. It also lets the 
+class know what to do. 
+
+I think the damage that the orb does should be placed in its class constuctor.
+
+It should have the animation and damage it does should be in the method.
