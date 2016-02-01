@@ -1,0 +1,5 @@
+The image must first be put in the res folder, we then fo to the object 
+class and type "res/<name>.png" where it says ne Image(.
+
+The Image is frawn in the class of the object and it set out to be drawn in
+the main class, in the sample it was known as unwavering.

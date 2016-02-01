@@ -1,0 +1,2 @@
+This is a method and it renders and produces everything. That being gc,
+graphics container, sbg, statebased game, and g, graphics.

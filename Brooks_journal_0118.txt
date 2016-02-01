@@ -1,0 +1,7 @@
+Jungle Hunt
+
+I solved applying a new character sprite
+
+I didnt have my map ready becuase it wouldn't work
+
+No, I slacked and my map kept giving me errors
