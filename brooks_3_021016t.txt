@@ -1,0 +1,15 @@
+Questions :
+
+1. I need to make a setDirection method becuase the code you sent was missing it?
+
+2. Whats the difference between player and Player in our games.
+
+3. How do we make the orb only go in the direction we were facting at the time of firing it and not change mid air
+
+4. How do we make the orb stop on walls
+
+5. How do we make the orb kill enemies
+
+6. How can we make enemies stay on a certain path
+
+7.
