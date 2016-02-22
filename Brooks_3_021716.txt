@@ -1,0 +1,21 @@
+What are arrays used for?
+	Arrays are used for holding many values of related things.
+What is the code for an int array?
+	Num[3] = new int [0,1,2,3];
+What is the code for an String array?
+	Word[2] = nwe String [you,me,mom,dad];
+What is the code for an boolean array?
+	Tf[1] = new boolean [true,false];
+What is the code for an double array?
+	Decimal[4] = nwe double [3.1415,6.66];
+How would you change the first value of the int array to 42?
+	
+Of the String array to "Bob"?
+
+What does this do: private String[] dessert = new String[3];
+
+What does this do: private String[] postres = {"rice pudding", "pan dulce", "bunuelos"}
+
+How are they different?
+
+How would we replace "bunuelos" with "apple pie"?
