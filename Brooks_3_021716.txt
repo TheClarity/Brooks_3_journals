@@ -7,15 +7,15 @@ What is the code for an String array?
 What is the code for an boolean array?
 	Tf[1] = new boolean [true,false];
 What is the code for an double array?
-	Decimal[4] = nwe double [3.1415,6.66];
+	Decimal[4] = new double [3.1415,6.66];
 How would you change the first value of the int array to 42?
-	
+	private int[] number = new int[3]
 Of the String array to "Bob"?
-
+	private String[] names = new String{"b0b",}
 What does this do: private String[] dessert = new String[3];
-
+	creates an array with 2 positions
 What does this do: private String[] postres = {"rice pudding", "pan dulce", "bunuelos"}
-
+	Sets the array
 How are they different?
-
+	An array is static. An arraylist is dynamic.
 How would we replace "bunuelos" with "apple pie"?
