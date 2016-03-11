@@ -1,0 +1,1 @@
+you can use a boolean to see if the sprite is facing left or right, this will determine what direction the orb will go.

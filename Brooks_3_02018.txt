@@ -1,0 +1,9 @@
+1.) It wouldn't be too useful because of autocomplete and because we're probably not going to use it for any other project
+2.)An array is a list of data that are related to the same thing
+3.) datatype[]
+4.) List of object
+5.) public ArrayList<Orb> orblist = new ArrayList();
+6.) clone(), remove(), replaceAll()
+7.)arrays store data, arrayLists store objects
+8.) have an arraylist of different little chunks of health so when you lose health it hould remove from the arraylist and it would create a somewhat of a healthbar
+

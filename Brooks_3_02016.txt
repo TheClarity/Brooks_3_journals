@@ -1,0 +1,2 @@
+We used arrays to instantite the object and make hit boxes.
+We could also use them to make a static object.

@@ -1,0 +1,55 @@
+1 How do we make a class?
+	public class Donut{
+
+}
+
+2. Is this a class constructor?
+	Donut Bismarck = new Donut();
+  No, it's creating another donut = it's calling the class constuctor, with Donut();
+
+3. How do we make a class with values and a class constructor?
+	public class Breakfast {
+		boolean hasEggs;
+		int numOfEggs;
+		boolean hasBacon;
+		boolean hasOrangeJuice;
+		int slicesOfBacon;
+		
+		Breakfast(int a, int b, boolean c, boolean d, boolean e) {
+			this.numOfEggs = a;
+			this.slicesOfBacon = b;
+			this.hasEggs = c;
+			this.hasBacon = d;
+			this.hasOrangeJuice = e;
+
+		}
+	//A getter gets things, i.e., namely in java an oop
+	//a gtter is usually public so that it can RETURN private values
+	//values, e.g., a getter for slices of bacon tells the main
+	//class how many slices of bacon.
+
+	public int getSlicesOfBacon() {
+		this.slicesOfBacon;
+	}
+	// A getter returns a value, by contrast a setter sets vaules.
+	//For example, to set whether we have orange juice.
+	
+	public void setHasOrangeJuice(boolean a) {
+		this.hasOrangeJuice = a;
+	}
+}
+
+4. An array of Breakfast
+	int[] numberz; //this is an array of numbers
+	char[] charaterz; //this is an array of chars
+	boolean[][]blocked; //this is a 2d array of booleans
+		Breakfast roedersBreakfast = new Breakdast(2,4, true, true, true);
+	 Breakfast[] roedersFamiliesBreakfastz = {roedersBreakdast, papasBreakfast, mamasBreakfast, sisBreakfast};
+
+
+5. Using getters and setters:
+//THIS IS USING A SETTER!!!
+	roedersBreakfast.setSlicesOfBackon(12);
+
+6. This si using a getter!!:
+

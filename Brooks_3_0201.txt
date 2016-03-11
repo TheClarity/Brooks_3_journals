@@ -1,0 +1,2 @@
+To clean up my code I need to get rid of useless comment, and system.out.printlns, to make the game more my own i also need to get rid of all "unwavering and get new tilesets for my map.
+

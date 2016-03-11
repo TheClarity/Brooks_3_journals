@@ -1,0 +1,1 @@
+you can do this by using an if intersects with the weapon or object.
