@@ -1,4 +1,0 @@
-Your track challenges the player completes by setting a check point, for a 
-specific point of your game.
- The best way to track hp is by making a counter.
-

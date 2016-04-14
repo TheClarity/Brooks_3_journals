@@ -1,0 +1,9 @@
+I have noticed the "methods" have similarity like "void" and it has for loops, Arrays are 
+	indicated differently and there is a const int. This seems to be differnt from int. Aswell as if and else statements 
+
+	Power is required for a circuit, that being ground and positive.
+
+	So far we completed 7 of the sample projects and started making our own game, we are planning on doing connect 4. Through the coding of this game I've learned alot like how buttons work with LEDs and how the code for adding new LEDs and buttons. I have got my game to "drop" the chip and stack on top of eachother aswell as move from side to side to choose which column. 
+	
+
+	I plan on creating a Connect4 game.
