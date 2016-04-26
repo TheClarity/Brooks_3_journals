@@ -1,0 +1,18 @@
+What is assembly?
+	Assembly is a coding lanuage but it is not portable, and it is hard to learn.
+What is it good for?
+	It is good for lower level computers. It is also good for working directing with the hardware
+	Also it is working with the only given task.
+How is assembly different than Java?
+	assembnly is a lot harder to learn compared to Java being it is alot closer to how the computer actually proccess the code. it is also formatted differently like
+	the way you declare things.
+What are differences between high level and low level languages?
+	High leve1 lanuguages are portable. Program development is faster and there are fewer lines
+	of code and maintenance is easier. Low level languages take a lot more code and are closer to what the computer actually reads
+Which type is Java? How do you know, i.e., what characteristics does it have of that language type?
+	Java is a high level language. It has strong abstraction of machine language, basically it 
+	requires some practices.
+Which type is Assembly? How do you know, i.e., what characteristics does it have of that language type?
+	Assembly is a low level programming because it doesn't have well use and it is not portable.
+
+

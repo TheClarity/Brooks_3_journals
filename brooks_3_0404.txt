@@ -1,0 +1,6 @@
+So far I have gotten the game to be able to move the LED left and righ, and stack ontop of eachother with a drop button.
+I still need to make it have a reset button and have it reset when the board is full. 
+I will most likely be able to turn in a 3 by 4 led connect 4 game which wont work for connect4 but will have the same idea of it
+Right now I'm working on cleaning up the code and making it more readable for myself.
+I have a function for the movement of the led and the droping of the led right now.
+
